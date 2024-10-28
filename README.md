@@ -154,7 +154,8 @@ REG.NO:212223220022
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-10-28 at 20 09 48_5a4a29d5](https://github.com/user-attachments/assets/d1e32e52-821e-4cde-83fb-0e6d4f9cafdc)
+![WhatsApp Image 2024-10-28 at 20 11 44_8190fdf2](https://github.com/user-attachments/assets/65104909-f45b-48ae-a9b3-fdeb1dd32993)
+
 
 
 ## RESULT:
